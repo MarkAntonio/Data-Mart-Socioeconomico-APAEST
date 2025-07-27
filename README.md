@@ -64,6 +64,7 @@ Este painel foi desenvolvido com foco em **uso interno e estratégico**, para me
 Toda a estrutura foi pensada para manter **clareza, acessibilidade, interatividade e performance**.
 
 ---
-
-> 📁 Caso queira visualizar o relatório `.pbix`, prints ou exemplos do ETL com Pentaho, confira a pasta `/Dashboards`.
+> 📁 Caso queira visualizar os diagramas relacionais e dimensionais e o SQL do projeto, confira a pasta `/Modelagem`.
+> 📁 Caso queira visualizar os planos de carga do Pentaho, confira a pasta `/Plano de Carga`.
+> 📁 Caso queira visualizar os prints do dashboard, confira a pasta `/Dashboards`.
 
