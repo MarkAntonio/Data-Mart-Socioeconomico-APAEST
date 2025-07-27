@@ -22,10 +22,10 @@ A modelagem adotada foi a **dimensional em estrela (Star Schema)** com abordagem
 Antes da análise no Power BI, os dados foram tratados com um processo completo de **ETL (Extração, Transformação e Carga)** utilizando o **Pentaho Data Integration (PDI)**.
 
 ### Etapas:
-- Extração de dados brutos (.csv, base local);
+- Extração de dados brutos;
 - Tratamento de inconsistências e limpeza;
 - Normalização de campos categóricos e multivalorados (como diagnósticos);
-- Geração da dimensão tempo e faixas etárias;
+- Geração das dimensões;
 - Carga em base relacional pronta para uso analítico.
 
 ---
